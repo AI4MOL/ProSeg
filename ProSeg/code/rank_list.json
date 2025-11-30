@@ -1,0 +1,142 @@
+[
+    {
+        "image_id": "10",
+        "slice": 0,
+        "root_path": "/data/D-Persona/models/pionono_prob01_LIDC_20250118-032137results_0_fold"
+    },
+    {
+        "image_id": "01",
+        "slice": 0,
+        "root_path": "/data/D-Persona/models/pionono_prob01_LIDC_20250118-032137results_0_fold"
+    },
+    {
+        "image_id": "08",
+        "slice": 0,
+        "root_path": "/data/D-Persona/models/pionono_prob01_LIDC_20250118-032137results_0_fold"
+    },
+    {
+        "image_id": "14",
+        "slice": 0,
+        "root_path": "/data/D-Persona/models/pionono_prob01_LIDC_20250118-032137results_0_fold"
+    },
+    {
+        "image_id": "10",
+        "slice": 0,
+        "root_path": "/data/D-Persona/models/cm_global01_LIDC_20250125-112504results_0_fold"
+    },
+    {
+        "image_id": "03",
+        "slice": 0,
+        "root_path": "/data/D-Persona/models/cm_global01_LIDC_20250125-112504results_0_fold"
+    },
+    {
+        "image_id": "08",
+        "slice": 0,
+        "root_path": "/data/D-Persona/models/cm_global01_LIDC_20250125-112504results_0_fold"
+    },
+    {
+        "image_id": "14",
+        "slice": 0,
+        "root_path": "/data/D-Persona/models/cm_global01_LIDC_20250125-112504results_0_fold"
+    },
+    {
+        "image_id": "10",
+        "slice": 0,
+        "root_path": "/data/D-Persona/models/cm_pixel01_LIDC_20250125-130753results_0_fold"
+    },
+    {
+        "image_id": "01",
+        "slice": 0,
+        "root_path": "/data/D-Persona/models/cm_pixel01_LIDC_20250125-130753results_0_fold"
+    },
+    {
+        "image_id": "12",
+        "slice": 0,
+        "root_path": "/data/D-Persona/models/cm_pixel01_LIDC_20250125-130753results_0_fold"
+    },
+    {
+        "image_id": "14",
+        "slice": 0,
+        "root_path": "/data/D-Persona/models/cm_pixel01_LIDC_20250125-130753results_0_fold"
+    },
+    {
+        "image_id": "10",
+        "slice": 0,
+        "root_path": "/data/D-Persona/models/pionono_mix_LIDC_20250113-233642results_0_fold"
+    },
+    {
+        "image_id": "01",
+        "slice": 0,
+        "root_path": "/data/D-Persona/models/pionono_mix_LIDC_20250113-233642results_0_fold"
+    },
+    {
+        "image_id": "08",
+        "slice": 0,
+        "root_path": "/data/D-Persona/models/pionono_mix_LIDC_20250113-233642results_0_fold"
+    },
+    {
+        "image_id": "14",
+        "slice": 0,
+        "root_path": "/data/D-Persona/models/pionono_mix_LIDC_20250113-233642results_0_fold"
+    },
+    {
+        "image_id": "10",
+        "slice": 0,
+        "root_path": "/data/D-Persona/models/pionono_prob01_LIDC_20250118-032137results_prior_0_fold"
+    },
+    {
+        "image_id": "01",
+        "slice": 0,
+        "root_path": "/data/D-Persona/models/pionono_prob01_LIDC_20250118-032137results_prior_0_fold"
+    },
+    {
+        "image_id": "08",
+        "slice": 0,
+        "root_path": "/data/D-Persona/models/pionono_prob01_LIDC_20250118-032137results_prior_0_fold"
+    },
+    {
+        "image_id": "14",
+        "slice": 0,
+        "root_path": "/data/D-Persona/models/pionono_prob01_LIDC_20250118-032137results_prior_0_fold"
+    },
+    {
+        "image_id": "10",
+        "slice": 0,
+        "root_path": "/data/D-Persona/models/prob_unet01_LIDC_20250125-072907results_0_fold"
+    },
+    {
+        "image_id": "01",
+        "slice": 0,
+        "root_path": "/data/D-Persona/models/prob_unet01_LIDC_20250125-072907results_0_fold"
+    },
+    {
+        "image_id": "08",
+        "slice": 0,
+        "root_path": "/data/D-Persona/models/prob_unet01_LIDC_20250125-072907results_0_fold"
+    },
+    {
+        "image_id": "14",
+        "slice": 0,
+        "root_path": "/data/D-Persona/models/prob_unet01_LIDC_20250125-072907results_0_fold"
+    },
+    {
+        "image_id": "10",
+        "slice": 0,
+        "root_path": "/data/D-Persona/models/prob_unet01_LIDC_20250125-072907results_2_fold"
+    },
+    {
+        "image_id": "01",
+        "slice": 0,
+        "root_path": "/data/D-Persona/models/prob_unet01_LIDC_20250125-072907results_2_fold"
+    },
+    {
+        "image_id": "08",
+        "slice": 0,
+        "root_path": "/data/D-Persona/models/prob_unet01_LIDC_20250125-072907results_2_fold"
+    },
+    {
+        "image_id": "14",
+        "slice": 0,
+        "root_path": "/data/D-Persona/models/prob_unet01_LIDC_20250125-072907results_2_fold"
+    }
+]
